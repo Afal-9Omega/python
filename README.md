@@ -101,35 +101,12 @@ R$ 30.000 – 45.000+
 
 ---------------------------------------------------------------------------
 
-Tipo de empresa que usa Python 
-
-Faixa salarial mensal de CEO (R$) 
-
-Observações 
-
-Startup pequena / early stage 
-
-R$ 8.000 – 20.000 (muitas vezes menor) 
-
-CEO pode ganhar pouco no fixo e ter participação acionária (equity). Em fases iniciais, alguns até retiram bem menos. 
-
-Empresa média (consultoria, software house, SaaS) 
-
-R$ 20.000 – 45.000 
-
-Empresas já com clientes fixos, faturamento estável, mas ainda sem capital de grande porte. 
-
-Grande empresa de tecnologia nacional 
-
-R$ 45.000 – 90.000+ 
-
-CEOs recebem fixo + bônus atrelados a resultados (lucro, crescimento). 
-
-Multinacionais / Big Techs no Brasil 
-
-R$ 80.000 – 150.000+ 
-
-Muitas vezes parte da remuneração vem em ações (stock options) ou bônus anuais. 
+ |           Tipo de empresa que usa Python           |    Faixa salarial mensal de CEO (R$)    |                                                      Observações                                                       |   |   |
+|:--------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|---|---|
+| Startup pequena / early stage                      | R$ 8.000 – 20.000 (muitas vezes menor)  | CEO pode ganhar pouco no fixo e ter participação acionária (equity). Em fases iniciais, alguns até retiram bem menos.  |   |   |
+| Empresa média (consultoria, software house, SaaS)  | R$ 20.000 – 45.000                      | Empresas já com clientes fixos, faturamento estável, mas ainda sem capital de grande porte.                            |   |   |
+| Grande empresa de tecnologia nacional              | R$ 45.000 – 90.000+                     | CEOs recebem fixo + bônus atrelados a resultados (lucro, crescimento).                                                 |   |   |
+| Multinacionais / Big Techs no Brasil               | R$ 80.000 – 150.000+                    |   Muitas vezes parte da remuneração vem em ações (stock options) ou bônus anuais.                                      |   |   |
 
  ## Jogos 
 
