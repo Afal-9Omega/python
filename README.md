@@ -10,11 +10,11 @@ Essa é uma falha comum entre iniciantes.
 
 Python não é inseguro, mas sua facilidade e flexibilidade fazem com que más práticas causem riscos. 
 
-🌐 Python e a Deep/Dark Web – Curiosidades 
+### 🌐 Python e a Deep/Dark Web – Curiosidades 
 
 Python é uma das linguagens mais usadas na deep web porque é simples, flexível e tem muitas bibliotecas de rede. Ele é usado para pesquisa, privacidade, ativismo, mas também para malwares, bots e mercados ilegais. 
 
-❄️ Python na Antártida – Curiosidades 
+### ❄️ Python na Antártida – Curiosidades 
 
 Mesmo no continente mais isolado da Terra, o Python é usado para ciência de dados, IA, astrofísica e automação. Ele ajuda a entender melhor o clima, o espaço e até a sobrevivência de espécies na Antártida. 
 
@@ -39,65 +39,17 @@ Mesmo no continente mais isolado da Terra, o Python é usado para ciência de da
 
 ## Artigos de Carreira 
 
-Nível / Cargo (Python) 
-
-Papel típico 
-
-Estimativa de salário mensal (R$) 
-
-Estagiário / Trainee 
-
-Apoio em tarefas simples, scripts, aprendizado 
-
-R$ 1.500 – 2.500 
-
-Júnior 
-
-Desenvolvimento com supervisão, automações básicas, pequenas APIs 
-
-R$ 3.500 – 6.000 
-
-Pleno 
-
-Desenvolvimento independente, entrega de features completas, integração com times 
-
-R$ 6.000 – 10.000 
-
-Sênior 
-
-Liderança técnica de projetos, decisões arquiteturais, mentoria de juniores 
-
-R$ 10.000 – 18.000 
-
-Especialista / Principal Engineer 
-
-Alta senioridade, resolve problemas complexos, referência técnica em Python/IA/Dados 
-
-R$ 18.000 – 28.000 
-
-Tech Lead / Líder Técnico 
-
-Coordena equipe técnica, define arquitetura, revisa código 
-
-R$ 15.000 – 25.000 
-
-Arquiteto de Software (com Python) 
-
-Responsável por arquitetura geral, integra sistemas, garante escalabilidade 
-
-R$ 18.000 – 30.000 
-
-Gerente de Engenharia / Coordenador 
-
-Gestão de pessoas + técnica, interface com negócio, planejamento 
-
-R$ 20.000 – 35.000 
-
-Diretor de Engenharia / CTO (empresas grandes) 
-
-Define visão tecnológica, gere múltiplos times, decisões estratégicas 
-
-R$ 30.000 – 45.000+ 
+|             Nível / Cargo (Python)              |                                     Papel típico                                      | Estimativa de salário mensal (R$)  |   |
+|:-----------------------------------------------:|:-------------------------------------------------------------------------------------:|:----------------------------------:|---|
+| Estagiário / Trainee                            | Apoio em tarefas simples, scripts, aprendizado                                        | R$ 1.500 – 2.500                   |   |
+| Júnior                                          | Desenvolvimento com supervisão, automações básicas, pequenas APIs                     | R$ 3.500 – 6.000                   |   |
+| Pleno                                           | Desenvolvimento independente, entrega de features completas, integração com times     | R$ 6.000 – 10.000                  |   |
+| Sênior                                          | Liderança técnica de projetos, decisões arquiteturais, mentoria de juniores           | R$ 10.000 – 18.000                 |   |
+| Especialista / Principal Engineer               | Alta senioridade, resolve problemas complexos, referência técnica em Python/IA/Dados  | R$ 18.000 – 28.000                 |   |
+| Tech Lead / Líder Técnico                       | Coordena equipe técnica, define arquitetura, revisa código                            | R$ 15.000 – 25.000                 |   |
+| Arquiteto de Software (com Python)              | Responsável por arquitetura geral, integra sistemas, garante escalabilidade           | R$ 18.000 – 30.000                 |   |
+| Gerente de Engenharia / Coordenador             | Gestão de pessoas + técnica, interface com negócio, planejamento                      | R$ 20.000 – 35.000                 |   |
+| Diretor de Engenharia / CTO (empresas grandes)  | Define visão tecnológica, gere múltiplos times, decisões estratégicas                 | R$ 30.000 – 45.000+                |   |
 
 ---------------------------------------------------------------------------
 
