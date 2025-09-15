@@ -10,11 +10,11 @@ Essa é uma falha comum entre iniciantes.
 
 Python não é inseguro, mas sua facilidade e flexibilidade fazem com que más práticas causem riscos. 
 
-### 🌐 Python e a Deep/Dark Web – Curiosidades 
+#### 🌐 Python e a Deep/Dark Web – Curiosidades 
 
 Python é uma das linguagens mais usadas na deep web porque é simples, flexível e tem muitas bibliotecas de rede. Ele é usado para pesquisa, privacidade, ativismo, mas também para malwares, bots e mercados ilegais. 
 
-### ❄️ Python na Antártida – Curiosidades 
+#### ❄️ Python na Antártida – Curiosidades 
 
 Mesmo no continente mais isolado da Terra, o Python é usado para ciência de dados, IA, astrofísica e automação. Ele ajuda a entender melhor o clima, o espaço e até a sobrevivência de espécies na Antártida. 
 
