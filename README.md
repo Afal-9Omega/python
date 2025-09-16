@@ -21,13 +21,16 @@ Mesmo no continente mais isolado da Terra, o Python é usado para ciência de da
  
 ## Trilhas de Vídeos 📸​
 
-![Nível 1: Fundamentos do Python](https://youtu.be/4p7axLXXBGU?si=HIJw6AlfD_t3RMzp)
+- ### ![Nível 1: Fundamentos do Python - Aprenda Python em 10min](![Imagem do WhatsApp de 2025-09-16 à(s) 10 02 14_9eaa58a9](https://github.com/user-attachments/assets/8a6663a9-8f8a-4182-9dce-942d596936d7)
+)]**(https://youtu.be/4p7axLXXBGU?si=HIJw6AlfD_t3RMzp)** 
 
 
-![Nível 2: O Python na Prática](https://youtu.be/S9uPNppGsGo?si=-RaIIY33bQ_FOQEV)
+- ### ![Nível 2: O Python na Prática - Curso Python 01 a 142](![Imagem do WhatsApp de 2025-09-16 à(s) 10 02 18_a3c8e2a2](https://github.com/user-attachments/assets/be759371-76ca-425b-8798-960198949437)
+)]**(https://youtu.be/S9uPNppGsGo?si=-RaIIY33bQ_FOQEV)**
 
 
-![Nível 3: Projetos e Tópicos Avançados](https://youtu.be/BS8mv11SJeo?si=tSNog9Vf4RL0gCEO)
+- ### ![Nível 3: Projetos e Tópicos Avançados de 01 a 96](![Imagem do WhatsApp de 2025-09-16 à(s) 10 10 08_685a2357](https://github.com/user-attachments/assets/5df51f05-c884-4183-bb90-beb751137938)
+)]**(https://youtu.be/BS8mv11SJeo?si=tSNog9Vf4RL0gCEO)** 
 
 
 
