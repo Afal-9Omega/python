@@ -86,34 +86,62 @@ Mesmo no continente mais isolado da Terra, o Python é usado para ciência de da
 --------------------------------------------------------
 ## Livros 📕​📗​📘​📙​
 
-Livros Recomendados para Aprender Python 
++ **🔰 Iniciante (primeiros passos)**
 
-Aqui está uma lista de livros sobre Python, organizados por nível, para te ajudar a aprofundar seus estudos. 
+“Automate the Boring Stuff with Python” – Al Sweigart
+Excelente para quem está começando e quer usar Python para coisas práticas do dia a dia (automatizar tarefas, mexer em arquivos, web scraping, etc.).
 
-Para Iniciantes (Fundamentos) 
+“Python Crash Course” – Eric Matthes
+Livro bem didático, cheio de exemplos práticos, dividido em fundamentos + projetos.
 
-Esses livros são ideais para quem está começando, cobrindo a sintaxe básica e os conceitos essenciais da linguagem. 
+“Think Python” – Allen B. Downey
+Ideal para quem quer entender bem a lógica da programação com Python.
 
-Python Fluente: Programação Clara, Concisa e Eficaz de Luciano Ramalho 
++ **📈 Intermediário (construindo projetos e boas práticas)**
 
-Aprenda a Programar com Python de Vários Autores 
+“Effective Python: 90 Specific Ways to Write Better Python” – Brett Slatkin
+Ensina técnicas, boas práticas e truques do Python moderno.
 
-Head First Python de Paul Barry 
+“Fluent Python” – Luciano Ramalho (autor brasileiro 🇧🇷)
+Um dos mais respeitados livros sobre Python no mundo; aborda profundamente recursos avançados da linguagem, como geradores, corrotinas, e programação funcional.
 
-Para Intermediários e Avançados 
+“Python Tricks: A Buffet of Awesome Python Features” – Dan Bader
+Livro leve e cheio de dicas úteis para escrever código mais limpo e pythonico.
 
-Depois de dominar os fundamentos, estes livros te levarão a um novo patamar, explorando tópicos mais complexos e aplicações práticas. 
++ **🚀 Avançado (profissional e especializado)**
 
-Python para Análise de Dados de Wes McKinney 
+“High Performance Python” – Micha Gorelick e Ian Ozsvald
+Para quem quer otimizar código e entender como escrever Python rápido e eficiente.
 
-Automatize Tarefas Maçantes com Python de Al Sweigart 
+“Python Cookbook” – David Beazley e Brian K. Jones
+Uma coletânea de soluções práticas para problemas avançados do dia a dia.
 
-Estruturas de Dados e Algoritmos com Python de Vários Autores 
+“Architecture Patterns with Python” – Harry Percival e Bob Gregory
+Ensina padrões de arquitetura e design para projetos maiores (muito bom para quem quer trabalhar com backend/projetos complexos).
 
-Para Ler e Usar no Dia a Dia 
++ *🎁 Extras (se quiser expandir além da linguagem)*
 
-Esses livros são ótimas referências para consulta e para melhorar a qualidade do seu código. 
+“Deep Learning with Python” – François Chollet → para entrar em IA e Machine Learning.
 
+“Black Hat Python” – Justin Seitz → para quem gosta da parte de segurança/ethical hacking.
+
+“Data Science from Scratch” – Joel Grus → se o foco for ciência de dados.
+
+👉 Sugestão de ordem para leitura:
+
+-- E eu deixei aqui pra voce não precisa ler todos so para ter uma baze, comessa por esses e pelos extras voce escolhe pela sua preferência.
+
+    #1                                                   Automate the Boring Stuff                                                          📚
+----------------------
+    #2                                                      Python Crash Course                                                             📚
+----------------------
+    #3                                                        Effective Python                                                              📚
+----------------------
+    #4                                                          Fluent Python                                                               📚
+----------------------
+    #5                                                         Python Cookbook                                                              📚
+----------------------
+    #Extras                         Deep Learning with Python, Black Hat Python, Data Science from Scratch                                  🎁
  ## Playground 🧩
 
 Playgrounds Python Online 
