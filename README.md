@@ -144,16 +144,16 @@ Ensina padrões de arquitetura e design para projetos maiores (muito bom para qu
     #Extras                         Deep Learning with Python, Black Hat Python, Data Science from Scratch                                  🎁
  ## Playground 🧩
 
-Playgrounds Python Online 
+[Playgrounds Python Online](#-sobre-o-projeto) 
 
-Playgrounds online são uma ótima ferramenta para testar códigos, praticar e experimentar com a linguagem Python sem a necessidade de instalar nada no seu computador. Eles funcionam diretamente no navegador, o que é perfeito para iniciantes ou para testes rápidos. 
+[Playgrounds online são uma ótima ferramenta para testar códigos, praticar e experimentar com a linguagem Python sem a necessidade de instalar nada no seu computador. Eles funcionam diretamente no navegador, o que é perfeito para iniciantes ou para testes rápidos.](#-sobre-o-projeto) 
 
-Aqui está uma lista dos melhores playgrounds de Python disponíveis: 
+[Aqui está uma lista dos melhores playgrounds de Python disponíveis:](#-sobre-o-projeto) 
 
-Google Colab: 
+[Google Colab: ](#-sobre-o-projeto)
 
-Pontos Fortes: Não é apenas um playground, é um ambiente completo para ciência de dados. Permite a criação de notebooks (arquivos .ipynb) com código e texto, integra-se perfeitamente com o Google Drive e oferece acesso a GPUs e TPUs gratuitas, o que é ideal para projetos de machine learning. 
+[Pontos Fortes: Não é apenas um playground, é um ambiente completo para ciência de dados. Permite a criação de notebooks (arquivos .ipynb) com código e texto, integra-se perfeitamente com o Google Drive e oferece acesso a GPUs e TPUs gratuitas, o que é ideal para projetos de machine learning.](#-sobre-o-projeto) 
 
-Ideal para: Análise de dados, machine learning, e tutoriais interativos que misturam texto e código. 
+[Ideal para: Análise de dados, machine learning, e tutoriais interativos que misturam texto e código. ](#-sobre-o-projeto)
 
-Repl.it (agora Replit): 
+[Repl.it (agora Replit):](#-sobre-o-projeto) 
