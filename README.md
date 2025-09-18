@@ -1,4 +1,4 @@
-# python 👨‍💻​
+# <h1 align="center"> python 👨‍💻​
 
 ## Curiosidades 📈
 
@@ -141,8 +141,9 @@ Ensina padrões de arquitetura e design para projetos maiores (muito bom para qu
 ----------------------
     #5                                                         Python Cookbook                                                              📚
 ----------------------
-    #Extras                         Deep Learning with Python, Black Hat Python, Data Science from Scratch                                  🎁
- ## Playground 🧩
+    #Extras                         Deep Learning with Python, Black Hat Python, Data Science from Scratch                                  🎁 
+ 
+## Playground 🧩
 
 [Playgrounds Python Online](#-sobre-o-projeto) 
 
@@ -157,3 +158,11 @@ Ensina padrões de arquitetura e design para projetos maiores (muito bom para qu
 [Ideal para: Análise de dados, machine learning, e tutoriais interativos que misturam texto e código. ](#-sobre-o-projeto)
 
 [Repl.it (agora Replit):](#-sobre-o-projeto) 
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+
+
