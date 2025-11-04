@@ -165,5 +165,11 @@ Ensina padrões de arquitetura e design para projetos maiores (muito bom para qu
 [![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
 
+`O`
+[individuals with Autism Spectrum Disorder (ASD). ](#-sobre-o-projeto)
 
+[ gggggggggggggggggggggggg ](#)
 
+[individuals with Autism Spectrum Disorder ASD.](#)
+
+<ins>ggggggg</ins>
